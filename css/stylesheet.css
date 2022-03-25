@@ -8,7 +8,7 @@ body{
     }
 header{
     background-color: #EAF6F6;
-    width: 99%;
+    width: 100vw;
     height: 100vh;
     top: 0;
     left: 0;
@@ -75,29 +75,23 @@ div p{
 }
 #top-cloud{
     position: absolute;
-    top: 25px;
-    right: 300px;
+    right: 20%;
+    top: 5vh;
 }
 #cloud{
     position: absolute;
-    left: 300px;
+    left: 20%;
+    /* margin-left: px; */
 }
 .mountain{
-    position: relative;
+    position: absolute;
     bottom: 0px;
-    left: 30%;
+    left: 25%;
+    width: 50%;
+    /* margin: 0 auto; */
 }
 .skill{
     justify-content: center;
-    /* position: relative; */
-    /* display: flex; */
     width: 70%;
     margin: 0 auto;
 }
-/* .code{
-    display: inline;
-    width: 15%;
-}
-.para{
-    width: 40%;
-} */
