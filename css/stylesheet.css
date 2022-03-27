@@ -35,7 +35,6 @@ a{
 .top-container{
     position: relative;
     background-color: #EAF6F6;
-    height: 86.5vh;
     padding-top: 100px;
     align-content: center;
     
@@ -84,11 +83,6 @@ div p{
     left: 250px;
     bottom: 300px;
   }
-.mountain{
-    position: absolute;
-    bottom: 0px;
-    left: 500px;
-}
 .skill{
     justify-content: center;
     width: 80%;
