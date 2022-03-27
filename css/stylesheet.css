@@ -71,14 +71,6 @@ p {
     width: 40%;
     margin: 40px auto 60px;
 }
-button{
-    padding: 5px 20px;
-    background-color: #11999E;
-    color: white;
-    border: 1px solid #66BFBF;
-    border-radius: 5px;
-    font-size: larger;
-}
 div p{
     color: #40514E;
 }
