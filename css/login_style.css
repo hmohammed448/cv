@@ -7,7 +7,7 @@
 }
 
 .container::before {
-    background: url('..images/pexels.jpg') top center/cover;
+    background: url('pexels.jpg') top center/cover;
     content: "";
     position: absolute;
     top: 0;
