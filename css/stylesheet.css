@@ -41,6 +41,7 @@ a{
     
 }
 .middle-container{
+    max-width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -59,19 +60,19 @@ footer ul a i{
     margin: 1rem;
 }
 .skill-row {
-    width: 50%;
+    max-width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
 }
 .intro {
-    width: 30%;
+    max-width: 30%;
     margin: auto;
 }
 p {
     line-height: 2;
 }
 .contact-msg {
-    width: 40%;
+    max-width: 40%;
     margin: 40px auto 60px;
 }
 div p{
@@ -89,18 +90,18 @@ div p{
   }
 .skill{
     justify-content: center;
-    width: 80%;
+    max-width: 80%;
     margin: 0 auto;
     font-family: 'Merriweather', serif;
 }
 .code-img {
-    width: 25%;
+    max-width: 25%;
     float: left;
     margin-right: 30px;
   }
   
 .chilli-img {
-    width: 25%;
+    max-width: 25%;
     float: right;
     margin-left: 30px;
 }
