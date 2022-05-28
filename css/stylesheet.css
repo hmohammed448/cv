@@ -33,7 +33,7 @@ a{
     text-decoration: none;
 }
 .top-container{
-    max-width: 100%;
+
     /*position: relative;*/
     background-color: #EAF6F6;
     padding-top: 100px;
@@ -41,7 +41,7 @@ a{
     
 }
 .middle-container{
-    max-width: 100%;
+
     display: inline-block;
     justify-content: center;
     align-items: center;
