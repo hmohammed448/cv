@@ -527,7 +527,7 @@
 
 .footer {
     /* content: ""; */
-    background-image: url(/img/background_footer_img.jpg);
+    background-image: url(img/background_footer_img.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
