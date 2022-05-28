@@ -394,7 +394,7 @@
 
 .link_box a:hover {
     cursor: pointer;
-    color: #1754c4;
+    color: #ffa22b;
 }
 
 .link_box i{
@@ -403,11 +403,6 @@
     color: transparent;
 }
 
-/* .linear_grd {
-    color: linear-gradient(111.7deg, #1c0fe0 19.9%, #f3335a 95%);
-    color: transparent;
-    -webkit-background-clip: text;
-} */
 .link_box a{
     text-decoration: none;
     color: black;
