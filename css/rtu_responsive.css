@@ -150,6 +150,7 @@ body {
     border: 1px solid rgba(0, 0, 0, 0.125);
     border-radius: 0.25rem;
 }
+
 /* .card_4box::before{
     background-image: url(/img/event1.jpg);
 } */
@@ -353,11 +354,33 @@ body {
 }
 
 .social_link {
-    min-width: 500px auto !important;
+    width: 150px !important;
+    display: flex;
     justify-content: space-around;
+    align-items: center;
     transform: scale(1);
 }
 
+.social_link a,
+.wid_nav a {
+    text-decoration: none;
+}
+
+.social_link a,
+.social_link a i,
+.wid_nav a i,
+.wid_nav a {
+    color: #fff;
+
+}
+
+.wid_nav {
+    width: 400px auto;
+}
+.wid_nav a{
+    margin-right: 1rem !important;
+    font-size: 15px;
+}
 .back-to-top:hover {
     background: #fff;
     color: #c45f17;
