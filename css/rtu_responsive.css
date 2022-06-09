@@ -484,6 +484,14 @@ body {
         display: none;
 
     }
+    #nav_1{
+        width: 50% !important;
+        float: left;
+    }
+    #nav_2{
+        width: 50% !important;
+        float: right;
+    }
 
     #head_in {
         display: block;
