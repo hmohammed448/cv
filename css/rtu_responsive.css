@@ -201,9 +201,9 @@ body {
 }
 
 .decor_black a {
-    text-decoration: none;
-    color: #fff;
-    margin: 1rem;
+    text-decoration: none !important;
+    color: #fff !important;
+    margin: 1rem !important;
 
 }
 
@@ -351,6 +351,11 @@ body {
     align-items: center;
     transform: scale(1.1);
 
+}
+.head_footer_icon{
+    display: flex !important;
+    justify-content: space-around !important;
+    align-items: center !important;
 }
 
 .social_link {
